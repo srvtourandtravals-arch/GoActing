@@ -1,0 +1,32 @@
+GoActing/
+├── README.md
+├── .gitignore
+├── customer-app/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── README.md
+├── driver-app/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── README.md
+├── admin-dashboard/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── README.md
+├── backend/
+│   ├── src/
+│   │   ├── routes/
+│   │   ├── models/
+│   │   ├── controllers/
+│   │   └── middleware/
+│   ├── package.json
+│   └── README.md
+├── database/
+│   └── schema.sql
+└── docs/
+    ├── API_DOCUMENTATION.md
+    ├── ARCHITECTURE.md
+    └── SETUP_GUIDE.md
