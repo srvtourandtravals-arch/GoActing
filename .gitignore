@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+# Python
+__pycache__/
+*.py[cod]
+# React
+/build/
+/.env
+# Flutter
+/.dart_tool/
+.dart_tool/
+/build/
+# IDE configurations
+.vscode/
+.idea/
